@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Vivek
 
 I love solving engineering problems and learning new things along the way.
